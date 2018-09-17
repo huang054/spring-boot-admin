@@ -23,8 +23,8 @@ public class ChatbotSend {
         String textMsg = "{ \"msgtype\": \"text\", \"text\": {\"content\":\""+msg+"\"}, \r\n" + 
         		"    \"at\": {\r\n" + 
         		"        \"atMobiles\": [\r\n" + 
-        		"            \"15813743541\", \r\n" + 
-        		//"            \"15279193694\", \r\n" + 
+        		"            \"158xxxx3541\", \r\n" + 
+        		//"            \"152xxxx3694\", \r\n" + 
         		"        ], \r\n" + 
         		"        \"isAtAll\":false\r\n" + 
         		"    }}";
