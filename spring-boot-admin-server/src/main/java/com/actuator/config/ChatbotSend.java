@@ -10,8 +10,8 @@ import org.apache.http.util.EntityUtils;
 
 
 public class ChatbotSend {
-
-    public static String WEBHOOK_TOKEN = "https://oapi.dingtalk.com/robot/send?access_token=e1fdab5c11b2b667736434ec62e669bd6d58795d01137554069eca181738dae0";
+     //釘釘機器人
+    public static String WEBHOOK_TOKEN = "https://oapi.dingtalk.com/robot/send?access_token=xxxxxxxxxxxxxxxxxxx";
 
     public static void send(String msg) throws Exception{
 
